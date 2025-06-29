@@ -15,6 +15,3 @@ A React Library to do the job
 * Quote
 * Table
 * Delimiter
-
-### Preview
-You can preview the resulting HTML here: https://react.verdin.io/
